@@ -1,1 +1,0 @@
-A Sample Project on COVID-19.
